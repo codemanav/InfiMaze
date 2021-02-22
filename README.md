@@ -2,32 +2,28 @@
 * An OTT Video Streaming website which provides an immersive experience to users who can watch all their favourite movies, series, TV shows, anime, cartoon.
 * Each user will have smooth control and quality assured content on the portal.
    
-### Features
+## Features
 * User registration/sign in facility to activate an account.
 * Storing session to check if the user is logged in or not.
-* Creating and displaying the preview video overlay.
+* Creating and displaying the preview video overlay. Changing the background color of navigation bar on scrolling.
 * Displaying movies, TV shows, series category wise (Action, Adventure, Comedy, etc.).
-* Showing "you might also like section" according to the genre user's watching.
-* A featured video player with features like play, pause, full screen, picture in picture, volume, skip +5/-5 secs, download, etc. . Replay and next episode is shown at the end of the video.
-
-* Allows searching videos based on name, category or tags.
-
-* Allows users to purchase subscription based on different available plans. Also allows users to view and pay for only selective videos.
-* Allows users to flag a video as offensive or inappropriate.
-* Users can like and comment on any video or can report a comment if they find it inappropriate.
-* An admin panel to control the content being shared on the platform.
-* Users can also add videos to their favorite list.
-* Recommending videos to users based on their previous watching history and the new releases or the most watched content by other users.
+* Recommending videos to user based on his/her previous watching history
+* A featured video player with features like play, pause, full screen, picture in picture, volume, skip +5/-5 secs, download, etc. . Replay and next episode overlay is shown at the end of the video.
+* AJAX implementation to add and update duration of the video as it plays. This essentially keeps track of the user's progress. Hence, he/she can come back and resume from where they left off.
+* Marking and dsiplaying the video as 'seen' on finishing it. 
+* AJAX implementation for a live search system.
+* Allows user to upadate his/her personal details in the profile section.
+* PayPal payment subscription integration.
 * One can resume the video from where he has last left the last time on re-login.
 
-## Tech Stacks:-
-    * PHP
-    * HTML
-    * CSS
-    * VanillaJS
-    * jQuery
-    * MySQL
+## Technologies:-
+   * PHP
+   * HTML
+   * CSS
+   * VanillaJS
+   * jQuery
+   * MySQL
 
-## External libraries/APIs
+## External libraries/APIs:-
     * PayPal-PHP-SDK
     * PayPal REST API
