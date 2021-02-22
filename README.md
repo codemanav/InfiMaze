@@ -1,7 +1,6 @@
 # InfiMaze
 * An OTT Video Streaming website which provides an immersive experience to users who can watch all their favourite movies, series, TV shows, anime, cartoon.
 * Each user will have smooth control and quality assured content on the portal.
-   
 ## Features
 * User registration/sign in facility to activate an account.
 * Storing session to check if the user is logged in or not.
@@ -25,5 +24,5 @@
    * MySQL
 
 ## External libraries/APIs:-
-    * PayPal-PHP-SDK
-    * PayPal REST API
+   * PayPal-PHP-SDK
+   * PayPal REST API
