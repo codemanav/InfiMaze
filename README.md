@@ -9,7 +9,7 @@
 * Storing session to check if the user is logged in or not.
 * Creating and displaying the preview video overlay. Changing the background color of navigation bar on scrolling.
 * Displaying movies, TV shows, series category wise (Action, Adventure, Comedy, etc.).
-* A featured video player with features like play, pause, full screen, picture in picture, volume, skip +5/-5 secs, download, etc. . Replay and next episode overlay is shown at the end of the video.
+* A featured video player with features like play, pause, full screen, picture in picture, previous, volume, skip +5/-5 secs, download, etc. . Replay and next episode overlay is shown at the end of the video.
 * AJAX implementation to add and update duration of the video as it plays. This essentially keeps track of the user's progress. Hence, he/she can come back and resume from where they left off.
 * Marking and displaying the video as 'seen' on finishing it. 
 * Recommending videos to user based on his/her previous watching history
