@@ -4,10 +4,7 @@
 
 
 
-
-
-
-## Features
+## Features:-
 * User registration/sign in facility to activate an account.
 * Storing session to check if the user is logged in or not.
 * Creating and displaying the preview video overlay. Changing the background color of navigation bar on scrolling.
@@ -19,7 +16,8 @@
 * AJAX implementation for a live search system.
 * Allows user to upadate his/her personal details in the profile section.
 * PayPal payment subscription integration.
-* One can resume the video from where he has last left the last time on re-login.
+* User can view his/her transaction history in PayPal.
+* One can resume the video from where he has last left on re-login.
 
 ## Technologies:-
    * PHP
