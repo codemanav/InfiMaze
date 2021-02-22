@@ -13,4 +13,4 @@
 
 ## External libraries/APIs
     * PayPal-PHP-SDK
-    * REST API
+    * PayPal REST API
