@@ -12,13 +12,15 @@
 * Creating and displaying the preview video overlay. Changing the background color of navigation bar on scrolling.
 
 ![alt text](https://github.com/codemanav/InfiMaze/blob/main/screenshots%20of%20the%20website/2.png)
+
 * Displaying movies, TV shows, series category wise (Action, Adventure, Comedy, etc.).
 
 ![alt text](https://github.com/codemanav/InfiMaze/blob/main/screenshots%20of%20the%20website/3.png)
 ![alt text](https://github.com/codemanav/InfiMaze/blob/main/screenshots%20of%20the%20website/4.png)
+
 * A featured video player with features like play, pause, full screen, picture in picture, previous, volume, skip +5/-5 secs, download, etc. . Replay and next episode overlay is shown at the end of the video.
 
-![alt text](https://github.com/codemanav/InfiMaze/blob/main/screenshots%20of%20the%20website/2.png)
+![alt text](https://github.com/codemanav/InfiMaze/blob/main/screenshots%20of%20the%20website/5.png)
 * AJAX implementation to add and update duration of the video as it plays. This essentially keeps track of the user's progress. Hence, he/she can come back and resume from where they left off.
 * Marking and displaying the video as 'seen' on finishing it. 
 * Recommending videos to user based on his/her previous watching history
