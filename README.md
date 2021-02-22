@@ -1,5 +1,5 @@
 # InfiMaze
-* An OTT Video Streaming website which provides an immersive experience to users who can watch all their favourite movies, series, TV shows, anime, cartoon.
+* An OTT Video Streaming website which provides an immersive experience to users who can watch all their favourite movies, series, TV shows, anime, cartoon, etc.
 * Each user will have smooth control and quality assured content on the portal.
 
 
