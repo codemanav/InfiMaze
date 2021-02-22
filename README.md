@@ -6,6 +6,7 @@
 
 ## Features:-
 * User registration/sign in facility to activate an account.
+
 ![alt text](https://github.com/codemanav/InfiMaze/blob/main/screenshots%20of%20the%20website/1.png)
 * Storing session to check if the user is logged in or not.
 * Creating and displaying the preview video overlay. Changing the background color of navigation bar on scrolling.
