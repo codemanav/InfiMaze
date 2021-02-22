@@ -1,1 +1,1 @@
-# InfiMaze
+InfiMaze
