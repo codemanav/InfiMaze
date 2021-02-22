@@ -3,6 +3,18 @@
 * Each user will have smooth control and quality assured content on the portal.
 
 
+## Technologies:-
+   * PHP
+   * HTML
+   * CSS
+   * VanillaJS
+   * jQuery
+   * MySQL
+
+## External libraries/APIs:-
+   * PayPal-PHP-SDK
+   * PayPal REST API
+
 
 ## Features:-
 * User registration/sign in facility to activate an account.
@@ -40,14 +52,3 @@
 * User can view his/her transaction history in PayPal.
 * One can resume the video from where he has last left on re-login.
 
-## Technologies:-
-   * PHP
-   * HTML
-   * CSS
-   * VanillaJS
-   * jQuery
-   * MySQL
-
-## External libraries/APIs:-
-   * PayPal-PHP-SDK
-   * PayPal REST API
