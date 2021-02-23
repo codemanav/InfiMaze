@@ -61,9 +61,9 @@
 * And you are ready to go :partying_face:!!
 
 ## Create your own PayPal subscription integration:-
-* PayPal-PHP-SDK is already present in the respository, else download latest version from here:- https://github.com/paypal/PayPal-PHP-SDK/releases
-* Place it in xampp/htdocs/infimaze.
-* Create an account on https://developer.paypal.com/home.
+* Download PayPal-PHP-SDK download latest version from here:- https://github.com/paypal/PayPal-PHP-SDK/releases
+* Place it in xampp/htdocs/InfiMaze.
+* Now create an account on https://developer.paypal.com/home.
 * Go into Dashboard->My Apps & Credentials->live and create a new app (eg, infimaze).
 * Make sure to link the app with a live account :grimacing:(sandbox is a dummy payPal account)!
 * Copy your Client ID and Secret (you wanna keep that a secret 	:wink:), replace it in includes/paypalConfig.php as shown below.
