@@ -10,6 +10,7 @@
    * VanillaJS
    * jQuery
    * MySQL
+   * Hack
 
 ## External libraries/APIs:-
    * PayPal-PHP-SDK
