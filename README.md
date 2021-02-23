@@ -53,17 +53,16 @@
 * One can resume the video from where he has last left on re-login.
 
 ## How to use?
-* Pre-requisite: XAMPP server installation
+* Pre-requisite: XAMPP server installation.
 * Clone the respository/download the source code.
-* Place the repository in xampp/htdocs/InfiMaze.
+* Place the repository in xampp/htdocs.
+* Download PayPal-PHP-SDK latest version from here:- https://github.com/paypal/PayPal-PHP-SDK/releases and place it in xampp/htdocs/InfiMaze.
 * Import infimaze database from InfiMaze/databases/infimaze into phpmyadmin.
-* Run the login.php/register.php using xampp localhost.
+* Run the login.php or register.php using xampp localhost.
 * And you are ready to go :partying_face:!!
 
 ## Create your own PayPal subscription integration:-
-* Download PayPal-PHP-SDK download latest version from here:- https://github.com/paypal/PayPal-PHP-SDK/releases
-* Place it in xampp/htdocs/InfiMaze.
-* Now create an account on https://developer.paypal.com/home.
+* Create an account on https://developer.paypal.com/home.
 * Go into Dashboard->My Apps & Credentials->live and create a new app (eg, infimaze).
 * Make sure to link the app with a live account :grimacing:(sandbox is a dummy payPal account)!
 * Copy your Client ID and Secret (you wanna keep that a secret 	:wink:), replace it in includes/paypalConfig.php as shown below.
