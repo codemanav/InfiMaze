@@ -52,3 +52,19 @@
 * User can view his/her transaction history in PayPal.
 * One can resume the video from where he has last left on re-login.
 
+## How to use?
+* Pre-requisite: XAMPP server installation
+* Clone the respository/download the source code.
+* Place the repository in xampp/htdocs/InfiMaze.
+* Import infimaze database from InfiMaze/databases/infimaze into phpmyadmin.
+* Run the login.php/register.php using xampp localhost.
+* And you are ready to go :partying_face:!!
+
+## Create your own PayPal subscription integration:-
+* PayPal-PHP-SDK is already present in the respository, else download latest version from here:- https://github.com/paypal/PayPal-PHP-SDK/releases
+* Create an account on https://developer.paypal.com/home
+* Go into Dashboard->My Apps & Credentials->live and create a new app (eg, infimaze).
+* Make sure to link the app with a live account :grimacing:(sandbox is a dummy payPal account)!
+* Copy your Client ID and Secret (you wanna keep that a secret 	:wink:), replace it in paypalConfig.php as shown below.
+* You can create your own billing plan in billingPlan.php by changing values and currency. (Also you can change duration for payment in line.16 of billing.php)
+* And you are done creating your own subscription integration :smile:!
